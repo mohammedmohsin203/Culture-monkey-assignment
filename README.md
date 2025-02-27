@@ -18,7 +18,7 @@ Squid is a modern, user-friendly Gravatar generator that creates unique, globall
 ## 🎬 Demo
 
 Check out Squid in action! Click below to watch the demo video:
-
+(https://jumpshare.com/embed/BqGzTuOVpysZtnqhQDkq)
 
 ## 🛠️ Tech Stack
 
