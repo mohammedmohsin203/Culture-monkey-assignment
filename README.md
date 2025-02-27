@@ -1,5 +1,6 @@
 # 🦑 Squid - Personalized Gravatar Generator 🎭
 
+## 🌐 Website: [Project Link](https://culture-monkey-assignment.vercel.app/)
 
 ## 🌟 Overview
 
@@ -74,20 +75,6 @@ yarn dev
 ## 🔧 API Configuration
 
 The app uses a simple API route to fetch Gravatar data. Configure your API endpoint in `/api/gravatar.js`.
-
-## 📁 Project Structure
-
-```
-squid-gravatar/
-├── components/
-│   └── ui/           # ShadCN UI components
-├── pages/
-│   ├── api/
-│   │   └── gravatar.js  # Gravatar API endpoint
-│   └── index.js      # Main application page
-└── public/
-    └── placeholder.jpg  # Default avatar image
-```
 
 ## 🧩 Components
 
