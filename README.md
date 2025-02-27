@@ -30,42 +30,6 @@ Check out Squid in action! Click below to watch the demo video:
 - 🖼️ Next Image - Image optimization
 - 📷 HyperUI- Ui template
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- 📦 Node.js (v14+ recommended)
-- 📦 npm or yarn
-
-### Installation
-
-1. 📥 Clone the repository:
-```bash
-git clone https://github.com/yourusername/squid-gravatar.git
-cd squid-gravatar
-```
-
-2. 📦 Install dependencies:
-```bash
-npm install
-# or
-yarn install
-```
-
-3. 🔧 Create a `.env.local` file in the root directory and add your Gravatar API key (if needed):
-```
-GRAVATAR_API_KEY=your_api_key_here
-```
-
-4. 🏃‍♂️ Run the development server:
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-5. 🌐 Open [http://localhost:3000](http://localhost:3000) in your browser to see the app in action!
-
 ## 📱 Usage
 
 1. 📝 Fill out the form with your details
@@ -88,25 +52,6 @@ Displays the generated profile card in a drawer component.
 ### ProfileSkeleton
 Loading skeleton shown while fetching Gravatar data.
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit PRs.
-
-1. 🍴 Fork the repository
-2. 🔄 Create your feature branch: `git checkout -b feature/amazing-feature`
-3. 💾 Commit your changes: `git commit -m 'Add some amazing feature'`
-4. 📤 Push to the branch: `git push origin feature/amazing-feature`
-5. 🔁 Open a Pull Request
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgements
-
-- 🎨 [ShadCN UI](https://ui.shadcn.com) for the beautiful components
-- 🖼️ [Gravatar](https://gravatar.com) for the avatar service
-- 📷 [Unsplash](https://unsplash.com) for the background image
 
 ## 📞 Contact
 
